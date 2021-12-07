@@ -9,6 +9,7 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 [LinkedIn](https://www.linkedin.com/search/results/people/?keywords=udacity%20microsoft&origin=GLOBAL_SEARCH_HEADER&sid=%2Csm)
 
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+![Testing Google Photos](https://photos.app.goo.gl/dGDy1yQF3fay5QDm9)
 
 ```
 git clone trying to test it
