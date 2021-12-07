@@ -11,6 +11,8 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 ![Testing Google Photos](https://photos.app.goo.gl/dGDy1yQF3fay5QDm9)
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ```
 git clone trying to test it
 
