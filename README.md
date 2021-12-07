@@ -13,8 +13,6 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 
 ![Chris Profile Picture](images/ChrisProfile.PNG)
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
 ```
 git clone trying to test it
 
