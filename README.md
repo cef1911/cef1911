@@ -16,7 +16,10 @@ This site was built using [GitHub Pages](https://pages.github.com/)
 git clone trying to test it
 
 ```
+```
+Another cell
 
+```
 <!--
 **cef1911/cef1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
