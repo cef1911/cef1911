@@ -4,7 +4,7 @@
 
 This site was built using [GitHub Pages](https://pages.github.com/)
 
-[LinkedIn](https://www.linkedin.com/search/results/people/?keywords=udacity%20microsoft&origin=GLOBAL_SEARCH_HEADER&sid=%2Csm)
+[LinkedIn](https://www.linkedin.com/search/results/people/?keywords=udacity%20microsoft&origin=GLOBAL_SEARCH_HEADER&sid=%2Csm)(https://www.linkedin.com/in/christopherefranklin)
 
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 
