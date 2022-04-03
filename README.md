@@ -10,14 +10,8 @@ My name is Christopher Enam Franklin. I go by Chris. I am positively obsessed wi
 
 ![Chris Profile Picture](images/ChrisProfile.PNG)
 
-```
-
-
-```
-```
 I am passionate about Data Science
 
-```
 <!--
 **cef1911/cef1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
