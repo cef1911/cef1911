@@ -6,7 +6,6 @@ My name is Christopher Enam Franklin. I go by Chris. I am positively obsessed wi
 
 [LinkedIn](https://www.linkedin.com/in/christopherefranklin)
 
-![Chris Profile Picture](images/ChrisProfile.PNG)
 ![Chris Profile Picture](images/FB_IMG_1770007490970.jpg).
 
 I am passionate about Data Science, IT change management, and lifelong learning.
