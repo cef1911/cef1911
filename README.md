@@ -6,8 +6,6 @@ My name is Christopher Enam Franklin. I go by Chris. I am positively obsessed wi
 
 [LinkedIn](https://www.linkedin.com/in/christopherefranklin)
 
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
-
 ![Chris Profile Picture](images/ChrisProfile.PNG)
 
 I am passionate about Data Science
